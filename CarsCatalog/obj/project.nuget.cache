@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cpeqJh4c1zBYMNqp5uNid3HBg5i6J3g7gPd2p5fanyH0Ownxb2WXm/CB6u5V6foYmumsO1NtXfSqcwWwJEo+FA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\uvaro\\RiderProjects\\WebApplication\\CarsCatalog\\CarsCatalog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uvaro\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
