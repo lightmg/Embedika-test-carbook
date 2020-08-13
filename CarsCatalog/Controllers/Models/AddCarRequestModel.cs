@@ -9,9 +9,7 @@ namespace CarsCatalog.Controllers.Models
         public string Model { get; set; }
         public string HexColorCode { get; set; }
         public DateTime ManufacturedDate { get; set; }
-        
-        public ulong ManufacturerId { get; set; }     //Required only one
-        public string ManufacturerName { get; set; }  //of this parameters
+        public ulong ManufacturerId { get; set; }
 
         public override bool IsSameWith(Car model)
         {
